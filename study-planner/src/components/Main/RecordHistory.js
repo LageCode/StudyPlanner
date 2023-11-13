@@ -1,0 +1,1 @@
+export const RecordHistory = () => <div>HISTORY</div>

@@ -1,0 +1,1 @@
+export const Planner = () => <div>PLANNER</div>;
